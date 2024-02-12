@@ -4,4 +4,8 @@ I'm currently a **PhD student** :mortar_board: at EPFL in Switzerland :switzerla
 
 📫 How to reach me:
 - :envelope: rebecca.neeser@epfl.ch
-- [![alt text][http://i.imgur.com/tXSoThF.png]][https://twitter.com/RebeccaNeeser]
+- [![alt text][1.1]][1]
+
+
+ [1.1]: http://i.imgur.com/tXSoThF.png
+ [1]: https://twitter.com/RebeccaNeeser
